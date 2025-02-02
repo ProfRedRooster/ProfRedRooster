@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![Rohans Github Stats](https://github-readme-stats.vercel.app/api?username=profredrooster&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profredrooster&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=profredrooster&hide=TeX&layout=compact&langs_count=20)
 <!--
 **ProfRedRooster/ProfRedRooster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
